@@ -1,0 +1,42 @@
+#request-selector {
+  width: 100px;
+  height: 26px;
+}
+.keyvalue-section {
+  margin-top: 10px;
+}
+.keyvalue-row input, .keyvalue-row button {
+  margin-top: 5px;
+}
+.buttons {
+  margin-top: 10px;
+}
+
+input {
+  border:none;
+  border-bottom: 2px inset;
+  height: 26px;
+}
+
+.input-box {
+  margin-top: 10px;
+}
+
+.return-content {
+  margin-top: 10px;
+}
+.content-row {
+  padding: 0;
+}
+.remove {
+  height: 26px;
+  padding: 2px 12px;
+}
+.update {
+  height: 22px;
+  padding: 1px 2px;
+}
+.content-row {
+  padding: 5px 0;
+  border-bottom: 1px solid #eee
+}
